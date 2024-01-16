@@ -1,0 +1,3 @@
+D:/code/stm32/TemplateF103/cmake-build-debug/CMakeFiles/TemplateF103.elf.dir
+D:/code/stm32/TemplateF103/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/stm32/TemplateF103/cmake-build-debug/CMakeFiles/rebuild_cache.dir
